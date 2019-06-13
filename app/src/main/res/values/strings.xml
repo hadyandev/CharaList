@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CharaList</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="card_view">Card View</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="data_received">data_received</string>
+</resources>
